@@ -1,0 +1,25 @@
+{
+  "name": "a3thiago",
+  "version": "1.0.0",
+  "description": "teste A3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuccaDavilaBacelar/A3Thiago2.0.git"
+  },
+  "author": "Lucca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuccaDavilaBacelar/A3Thiago2.0/issues"
+  },
+  "homepage": "https://github.com/LuccaDavilaBacelar/A3Thiago2.0#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "husky": "^9.0.11"
+  }
+}
